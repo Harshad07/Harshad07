@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm a grad student doing masters in cybersecurity and am passionate about pentesting.
 
-I learn new skill and try to upload my solutions for the labs I solve.
-- Currently I am learning about web penetration testing and going though SQL Injection.
+I learn new skill and try to upload my solutions for the labs I solve, Currently I am learning about web penetration testing and going though SQL Injection.
 
 Table of Contents:
 Web Penetration Testing:
